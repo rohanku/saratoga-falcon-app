@@ -1,0 +1,12 @@
+{
+  "name": "saratoga-falcon",
+  "displayName": "saratoga-falcon",
+  "expo": {
+    "name": "saratoga-falcon",
+    "slug": "saratoga-falcon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
